@@ -1,5 +1,9 @@
 #include "ExecJS.h"
 
+/* Credits: 
+	alcantara99
+	krasnoludXD
+*/
 
 int main() {
 	Exec::init();
